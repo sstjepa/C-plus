@@ -1,0 +1,9 @@
+Sadrzaj: 
+X koordinata: 2.5,Y koordinata: 5.3
+Kvadrat - Stranica A: 3
+X koordinata: 2.5,Y koordinata: 5.3
+Pravougaonik - Stranica B: 2, Stranica C: 3
+X koordinata: 2.5,Y koordinata: 5.3
+Kvadrat - Stranica A: 5
+X koordinata: 2.5,Y koordinata: 5.3
+Pravougaonik - Stranica B: 3, Stranica C: 4

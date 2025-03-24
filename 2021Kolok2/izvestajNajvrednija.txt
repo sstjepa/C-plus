@@ -1,0 +1,2 @@
+Podaci o najvrednoijoj aktivnosti:
+15 5 patike 40000 0.8

@@ -1,0 +1,60 @@
+Tip: Kondenzator
+Barkod: 0001
+Kapacitivnost: 5
+
+Tip: Otpornik
+Barkod: 0012
+Otpornost: 3, Min Temp: 69, Max Temp: 69
+
+Tip: Kondenzator
+Barkod: 0004
+Kapacitivnost: 5200
+
+Tip: Otpornik
+Barkod: 0005
+Otpornost: 10000, Min Temp: 2, Max Temp: 20
+
+Tip: Otpornik
+Barkod: 0009
+Otpornost: 12000, Min Temp: 2, Max Temp: 31
+
+Tip: Kondenzator
+Barkod: 0069
+Kapacitivnost: 3
+
+Tip: Kondenzator
+Barkod: 0420
+Kapacitivnost: 18
+
+Tip: Kondenzator
+Barkod: 0001
+Kapacitivnost: 5
+
+Tip: Otpornik
+Barkod: 0012
+Otpornost: 3, Min Temp: 69, Max Temp: 69
+
+Tip: Kondenzator
+Barkod: 0004
+Kapacitivnost: 5200
+
+Tip: Otpornik
+Barkod: 0005
+Otpornost: 10000, Min Temp: 2, Max Temp: 20
+
+Tip: Otpornik
+Barkod: 0009
+Otpornost: 12000, Min Temp: 2, Max Temp: 31
+
+Tip: Kondenzator
+Barkod: 0069
+Kapacitivnost: 3
+
+Tip: Kondenzator
+Barkod: 0420
+Kapacitivnost: 18
+
+Tip: Kondenzator
+Barkod: 0001
+Kapacitivnost: 5
+
